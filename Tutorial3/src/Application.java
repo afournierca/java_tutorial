@@ -7,11 +7,7 @@ public class Application {
 		String blank = " ";
 		String name = "Deep Thought";
 		String greeting = myText + blank + name;
-		System.out.println(greeting);
-		System.out.println(myInt);
-		
-		
-		
+		System.out.println(greeting + ": " + myInt);		
 		
 	}
 }
